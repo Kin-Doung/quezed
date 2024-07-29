@@ -1,0 +1,33 @@
+.card{
+    box-shadow: 2px 2px 5px 5px rgb(155, 141, 141);
+}
+h1{
+    background-color: black;
+    color: orange;
+    text-align: center;
+    padding: 10px;
+}
+img{
+    width: 100%;
+}
+#home:hover{
+    background-color: rgb(25, 94, 25);
+    color: orange;
+    padding: 3px;
+    margin: 5px;
+}
+#about:hover{
+    background-color: rgb(25, 94, 25);
+    color: orange; 
+    padding: 3px;
+    margin: 5px;
+}
+#contact:hover{
+    background-color: rgb(25, 94, 25);
+    color: orange;
+    padding: 3px;
+    margin: 5px;
+}
+a{
+    margin: 10px;
+}
